@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+myenv/
+venv/
+ENV/
+env/
+
+# Uploads / temp
+uploads/
+tmp/
+
+# Node (if used)
+node_modules/
+
+# Secrets
+.env
+*.env
+
+# System
+.DS_Store
